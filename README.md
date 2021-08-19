@@ -5,4 +5,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoicdSantos"/>
 </div>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
